@@ -3,5 +3,4 @@
 
 # 1. run git status
 # 2. run git add . 
-# 3. run git commit -m (whatever your doign in presetn tense in the text)
-#
+# 3. run git commit -m "whatever your doing in present tense in the text"

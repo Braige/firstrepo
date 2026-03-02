@@ -2,3 +2,4 @@
 
 
 # 1. run git status
+# 2. run git add . 
